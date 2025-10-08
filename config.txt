@@ -1,0 +1,5 @@
+logtype=1
+format={time} - {level} - {content} - {file}:{line}
+loglevel=1
+logfilepath=log.txt
+maxlogsize=1024

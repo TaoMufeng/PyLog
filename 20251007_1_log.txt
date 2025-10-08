@@ -1,0 +1,22 @@
+2 - hello world - D:\Project\PythonProject\Log\main.py:222 - hello world - D:\Project\PythonProject\Log\main.py:222 - hello world - D:\Project\PythonProject\Log\main.py:222 - hello world - D:\Project\PythonProject\Log\main.py:22
+2 - hello world - D:\Project\PythonProject\Log\main.py:22
+2 - hello world - D:\Project\PythonProject\Log\main.py:22
+2 - hello world - D:\Project\PythonProject\Log\main.py:22
+2 - hello world - D:\Project\PythonProject\Log\main.py:22
+2 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:51:27 - 2 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:51:49 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:51:52 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:51:53 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:51:55 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:53:58 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:53:59 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:06 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:23 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:37 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:38 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:40 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:42 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:54:45 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:57:22 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
+20251007 23:57:26 - 1 - hello world - D:\Project\PythonProject\Log\main.py:22
